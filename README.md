@@ -1,8 +1,7 @@
 # prtgr
 # GCL prtfolio
 ***
-##### This  is  a  page  containing   header , jumbotron ,main and footer section 
->A carousel  was added  into  the  structure  for a  better  ui experience when resizing the  project 
+##### This  is  a  page  containing  the projects worked  during the bootcamp 
 
 For  further information  please visit
 [Github](https://github.com/Runster91/prtgr.git)
