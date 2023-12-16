@@ -25,7 +25,7 @@ export const data=[
         name:"Dashboard app",
         image:dash,
         github:"https://github.com/Runster91/2dash",
-        live:"",
+        live:"https://github.com/Runster91/cest2.git",
     },
     {
         id:4,
