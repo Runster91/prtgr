@@ -1,5 +1,6 @@
 import React from 'react'
 import MCBY from '../assets/mcby.png';
+import GitHub from '../assets/github.png';
 
 const Contact = () => {
   return (
@@ -8,20 +9,13 @@ const Contact = () => {
             <div className='pb-8'>
                 <p className='text-4xl font-bold inline border-b-4 border-red-600 text-gray-300'>Contact</p>
                 <p className='text-gray-300 py-4'>// Shoot me an email </p>
+                <a target="_blank" href="https://github.com/Runster91/" ><img class="sm" src={GitHub} alt="ghlogo"></img>/></a>
+                <img className='w-50 mx-auto' src={MCBY} alt="HTML icon" />
+                
+
             </div>
-            <div className='shadow-md shadow-[#000000] bg-[#bf0d0d] hover:scale-110 duration-500'>
-                  <img className='w-50 mx-auto' src={MCBY} alt="HTML icon" />
-                  
-              </div>
-              <div className='shadow-md shadow-[#ca1414] bg-[#bf0d0d] hover:scale-110 duration-500'>
-              <a href="rolldamon1906@outlook">
-  <button className='text-white border-2 hover:bg-red-600 hover:border-red-600 px-4 py-3 my-8 mx-auto flex items-center ' mailto="rolldamon1906@outlook.com">
-    Let's Collaborate
-  </button>
-</a>    
-                  
-              </div>
             
+              
             
         </form>
     </div>
